@@ -1,0 +1,9 @@
+uncompress all of the source code (if not compressed)
+ move to local c drive find the server.py and right click
+ and go to properties on the opens section press change 
+ press browse navigate to c:\anaconda and choose python.exe 
+ and press open press ok and hit apply open cmd.exe type
+ : pip install --user flask pip install --user flask_socketio pip install --user textblob 
+ navigate to directory where the python program is stored and make sure the file is stored locally (on the C drive, not redirect)
+ type server.py and hit enter navigate to chrome and type in 127.0.0.1:5000 hit play and observe the program and when you are done
+ exit the tab press ctrl + c to stop the stream
