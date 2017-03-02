@@ -5,9 +5,15 @@ TweetMap is a robust web based application that pulls tweets in from Twitter and
 
 ![Alt text](https://github.com/Sarcastick/TweetMap/blob/master/TweetMap.PNG) 
 
-Directions
+Directions for runnning program
 
-The directions for running TweetMap is in the README file.
+    Uncompress all of the source code (if not compressed)
+    Move all files to local C drive.
+    Find the server.py and right click. Then go to properties on the opens section and chose python.exe
+    Open cmd and type "pip install --user flask pip install --user flask_socketio pip install --user textblob"
+    Type "server.py" and hit enter. 
+    Navigate to chrome and type in "127.0.0.1:5000" hit play and observe the program and when you are done.
+    Exit the tab press ctrl + c to stop the stream.
 
 Features
 
