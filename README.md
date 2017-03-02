@@ -9,14 +9,14 @@ Directions
 The directions for running TweetMap is in the README file.
 
 Features
-1. 	Play and Stop for twitter stream
-2. 	Clicking on an emoji on the map will display the tweet
-3. 	Use the “+” and “-“ buttons on the upper left corner to zoom in and zoom out
-4. 	Click and drag on the map to move the map in any direction
+  Play and Stop for twitter stream
+ 	Clicking on an emoji on the map will display the tweet
+  Use the “+” and “-“ buttons on the upper left corner to zoom in and zoom out
+  Click and drag on the map to move the map in any direction
 
 Troubleshooting
-1. Map does not load emojis
-  - Make sure that there is only one server.py program running in the command prompt
-2. Map becomes very slow and unresponsive
-  - Refresh the page
+Map does not load emojis
+  Make sure that there is only one server.py program running in the command prompt 
+Map becomes very slow and unresponsive
+  Refresh the page
 
